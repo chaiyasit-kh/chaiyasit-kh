@@ -17,5 +17,4 @@
 - Microservices architecture
 - Database & performance optimization
 
----
-📫 Reach me on GitHub
+
